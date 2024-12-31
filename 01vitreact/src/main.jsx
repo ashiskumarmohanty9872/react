@@ -3,7 +3,7 @@ import App from './App.jsx'
 import React from 'react'
 
 function MyApp(){
-    return(
+    return(0
         <div>
             <h1> Custom render ! chai</h1>
         </div>
@@ -11,7 +11,7 @@ function MyApp(){
 }
 
 
-// global varibale declare kariba dekiba kemti Evaluate edpresssion kama karuchi
+// global varibale declare kariba dekiba kemti Evaluate expresssion kama karuchi
 
 const  otherUser= "Sibun is a hard worker"
 
