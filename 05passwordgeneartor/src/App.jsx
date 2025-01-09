@@ -7,7 +7,7 @@ function App() {
  const [charAllowed , setCharAllowed] = useState(false);
  const [password ,setPassword] = useState("");
 
-//  useref hook
+//  useRef HOOKS
 
 const passwordRef = useRef(null)
 
