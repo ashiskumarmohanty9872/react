@@ -3,10 +3,13 @@ import App from './App.jsx'
 import React from 'react'
 
 function MyApp(){
-    return(0
-        <div>
-            <h1> Custom render ! chai</h1>
-        </div>
+    return(
+        
+          <>
+             <h1> Custom render ! chai</h1>
+          </> 
+
+        
     )
 }
 
